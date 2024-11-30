@@ -1,0 +1,29 @@
+/* Aquí puedes agregar tus estilos CSS para personalizar el formulario */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+form {
+    width: 300px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+}
